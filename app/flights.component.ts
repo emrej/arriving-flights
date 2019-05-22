@@ -11,6 +11,7 @@ export const flightsComponent: angular.IComponentOptions = {
     }],
     template: `
     <div class="container">
+    
         <img src="assets/img/angularjs.png" height="50">
 
         <div class="card">
